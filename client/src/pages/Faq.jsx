@@ -5,7 +5,7 @@ const faqs = [
   {
     question: "What renovation services do you offer in Toronto and the GTA?",
     answer:
-      "Baba Kyrillos Renovations provides residential renovation services throughout Toronto and the Greater Toronto Area (GTA), including kitchen renovations, bathroom remodels, basement finishing, home additions, structural work, flooring, drywall, and general home improvements.",
+      "Lamassu General Contracting provides residential renovation services throughout Toronto and the Greater Toronto Area (GTA), including kitchen renovations, bathroom remodels, basement finishing, home additions, structural work, flooring, drywall, and general home improvements.",
   },
   {
     question: "Do you offer free renovation estimates in Toronto?",
@@ -15,7 +15,7 @@ const faqs = [
   {
     question: "Are you licensed and insured to work in Ontario?",
     answer:
-      "Yes. Baba Kyrillos Renovations is fully licensed and insured to operate in Ontario and complies with provincial and municipal regulations. Proof of insurance is available upon request.",
+      "Yes. Lamassu General Contracting is fully licensed and insured to operate in Ontario and complies with provincial and municipal regulations. Proof of insurance is available upon request."
   },
   {
     question: "Do you handle building permits in Toronto?",
@@ -45,12 +45,12 @@ const faqs = [
   {
     question: "Do you offer emergency renovation or repair services?",
     answer:
-      "Yes. Baba Kyrillos Renovations offers emergency renovation and repair services across Toronto and the GTA for urgent issues such as water damage, structural concerns, or time-sensitive repairs. Please call us directly for immediate assistance.",
+      "Yes. Lamassu General Contracting offers emergency renovation and repair services across Toronto and the GTA for urgent issues such as water damage, structural concerns, or time-sensitive repairs. Please call us directly for immediate assistance.",
   },
   {
     question: "How do I get started?",
     answer:
-      "You can get started by contacting us through our website or calling us directly at 647-575-5272 to request a free estimate.",
+      "You can get started by contacting us through our website or calling us directly at 647-921-6844 to request a free estimate.",
   },
 ];
 
@@ -134,10 +134,10 @@ export default function FAQ() {
           <div className="flex justify-center gap-4">
             <Link to="/contact-us" className="bg-[#F7F5F0] text-[#4A4A4A] font-semibold px-6 py-3 rounded-lg hover:bg-[#ede9e1] transition">Request a Free Estimate</Link>
             <a
-              href="tel:6475755272"
+              href="tel:6479216844"
               className="border border-white px-6 py-3 rounded-lg font-semibold hover:bg-[#F7F5F0] hover:text-[#4A4A4A] transition"
             >
-              Call 647-575-5272
+              Call 647-921-6844
             </a>
           </div>
         </div>
@@ -146,7 +146,7 @@ export default function FAQ() {
       {/* Sticky Mobile CTA */}
       <div className="sm:hidden fixed bottom-0 inset-x-0 bg-[#2B3E34] text-[#F7F5F0] px-4 py-3 flex gap-3 z-50">
         <a
-          href="tel:6475755272"
+          href="tel:6479216844"
           className="flex-1 text-center bg-[#F7F5F0] text-[#4A4A4A] font-semibold py-2 rounded-lg"
         >
           Call Now

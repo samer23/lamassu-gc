@@ -84,14 +84,14 @@ export default function ContactUs() {
           </p> */}
           <p>
             <strong>Phone:</strong>{" "}
-            <a href="tel:+16475755272" className="text-[#2B3E34] hover:text-[#E07A5F]">
-              (647) 575-5272
+            <a href="tel:+16479216844" className="text-[#2B3E34] hover:text-[#E07A5F]">
+              (647) 921-6844
             </a>
           </p>
           <p>
             <strong>Email:</strong>{" "}
-            <a href="mailto:jacobbeshara@outlook.com" className="text-[#2B3E34] hover:text-[#E07A5F]">
-              jacobbeshara@outlook.com
+            <a href="mailto:tolmassugc@gmail.com" className="text-[#2B3E34] hover:text-[#E07A5F]">
+              tolmassugc@gmail.com
             </a>
           </p>
 

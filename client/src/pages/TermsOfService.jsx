@@ -33,7 +33,7 @@ export default function TermsOfService() {
         <h2 className="text-2xl font-semibold">4. Intellectual Property</h2>
         <p>
           All website content, including text, images, logos, and designs, is
-          the property of <strong>Baba Kyrillos Renovations</strong> and may not be copied
+          the property of <strong>Lamassu General Contracting</strong> and may not be copied
           or reused without written permission.
         </p>
 
@@ -63,9 +63,9 @@ export default function TermsOfService() {
 
         <h2 className="text-2xl font-semibold">9. Contact Information</h2>
         <p>
-          <strong>Baba Kyrillos Renovations</strong><br />
-          Email: jacobbeshara@outlook.com<br />
-          Phone: 647-575-5272
+          <strong>Lamassu General Contracting</strong><br />
+          Email: tolmassugc@gmail.com<br />
+          Phone: 647-921-6844
         </p>
       </section>
     </div>

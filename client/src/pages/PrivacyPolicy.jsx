@@ -11,7 +11,7 @@ export default function PrivacyPolicy() {
 
       <section className="space-y-6">
         <p>
-          <strong>Baba Kyrillos Renovations</strong> (“we”, “our”, or “us”) is committed to
+          <strong>Lamassu General Contracting</strong> (“we”, “our”, or “us”) is committed to
           protecting your personal information in accordance with Canada’s
           <strong> Personal Information Protection and Electronic Documents Act (PIPEDA)</strong>.
         </p>
@@ -90,9 +90,9 @@ export default function PrivacyPolicy() {
 
         <h2 className="text-2xl font-semibold">9. Contact Information</h2>
         <p>
-          <strong>Baba Kyrillos Renovations</strong><br />
-          Email: jacobbeshara@outlook.com<br />
-          Phone: 647-575-5272<br />
+          <strong>Lamassu General Contracting</strong><br />
+          Email: tolmassugc@gmail.com<br />
+          Phone: 647-921-6844<br />
           Location: Toronto, Ontario
         </p>
       </section>
