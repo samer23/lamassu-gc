@@ -135,7 +135,7 @@ export default function FAQ() {
             <Link to="/contact-us" className="bg-[#F7F5F0] text-[#4A4A4A] font-semibold px-6 py-3 rounded-lg hover:bg-[#ede9e1] transition">Request a Free Estimate</Link>
             <a
               href="tel:6479216844"
-              className="border border-white px-6 py-3 rounded-lg font-semibold hover:bg-[#F7F5F0] hover:text-[#4A4A4A] transition"
+              className="border border-white px-6 py-3 rounded-lg font-semibold hover:bg-[#F7F5F0] hover:text-[#4A4A4A] transition md:cursor-default"
             >
               Call 647-921-6844
             </a>

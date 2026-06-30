@@ -81,7 +81,7 @@ export default function Home() {
               <Link to="/contact-us" className="bg-[#E07A5F] text-[#F7F5F0] font-semibold px-6 py-3 rounded-lg hover:bg-[#d06a4f] transition">Request a Free Estimate</Link>
               <a
                 href="tel:6479216844"
-                className="border border-[#2B3E34] text-[#2B3E34] font-semibold px-6 py-3 rounded-lg hover:bg-[#2B3E34] hover:text-[#F7F5F0] transition"
+                className="border border-[#2B3E34] text-[#2B3E34] font-semibold px-6 py-3 rounded-lg hover:bg-[#2B3E34] hover:text-[#F7F5F0] transition md:cursor-default"
               >
                 Call 647-921-6844
               </a>
