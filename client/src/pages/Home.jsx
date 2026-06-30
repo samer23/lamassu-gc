@@ -69,7 +69,7 @@ export default function Home() {
     <div className="space-y-0">
       {/* Hero Section */}
       <section className="relative bg-[#F7F5F0] text-[#4A4A4A]">
-        <div className="max-w-6xl mx-auto px-4 py-28 flex flex-col md:flex-row items-center">
+        <div className="max-w-6xl mx-auto px-4 py-12 md:py-28 flex flex-col md:flex-row items-center">
           <div className="md:w-1/2 space-y-6">
             <h1 className="text-5xl font-bold leading-tight text-[#2B3E34]">
               Lamassu General Contracting
